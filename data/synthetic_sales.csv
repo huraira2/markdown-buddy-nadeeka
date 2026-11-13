@@ -1,0 +1,501 @@
+"order_id","order_date","region","category","units","unit_price","revenue"
+"ORD-0001",2026-04-11,"North","Furniture",4,211.9,847.6
+"ORD-0002",2026-04-28,"South","Office Supplies",5,34.93,174.65
+"ORD-0003",2026-01-23,"East","Furniture",9,233.63,2102.67
+"ORD-0004",2026-03-28,"South","Technology",4,132.45,529.8
+"ORD-0005",2026-03-27,"East","Office Supplies",8,10.97,87.76
+"ORD-0006",2026-06-05,"West","Furniture",10,97.85,978.5
+"ORD-0007",2026-01-14,"West","Furniture",9,245.26,2207.34
+"ORD-0008",2026-01-13,"South","Office Supplies",2,65.1,130.2
+"ORD-0009",2026-05-22,"West","Technology",4,46.54,186.16
+"ORD-0010",2026-03-12,"South","Furniture",2,226.43,452.86
+"ORD-0011",2026-02-10,"South","Office Supplies",8,215.14,1721.12
+"ORD-0012",2026-04-01,"North","Furniture",8,72.86,582.88
+"ORD-0013",2026-06-22,"West","Office Supplies",7,72.68,508.76
+"ORD-0014",2026-06-13,"East","Technology",9,112.6,1013.4
+"ORD-0015",2026-04-12,"East","Office Supplies",6,209.68,1258.08
+"ORD-0016",2026-06-19,"North","Office Supplies",10,134.45,1344.5
+"ORD-0017",2026-05-29,"North","Furniture",1,246.76,246.76
+"ORD-0018",2026-01-28,"West","Technology",2,120.69,241.38
+"ORD-0019",2026-03-23,"North","Furniture",1,246.67,246.67
+"ORD-0020",2026-02-22,"North","Furniture",4,204.03,816.12
+"ORD-0021",2026-04-21,"East","Office Supplies",2,243.66,487.32
+"ORD-0022",2026-02-05,"East","Office Supplies",2,115.45,230.9
+"ORD-0023",2026-03-06,"East","Office Supplies",4,32.27,129.08
+"ORD-0024",2026-03-10,"South","Office Supplies",6,101.43,608.58
+"ORD-0025",2026-06-12,"West","Office Supplies",1,233.81,233.81
+"ORD-0026",2026-05-28,"South","Office Supplies",2,151.58,303.16
+"ORD-0027",2026-02-23,"West","Technology",10,78.49,784.9
+"ORD-0028",2026-04-05,"West","Office Supplies",7,18.99,132.93
+"ORD-0029",2026-05-03,"North","Office Supplies",3,174.04,522.12
+"ORD-0030",2026-03-25,"North","Technology",7,62.82,439.74
+"ORD-0031",2026-06-24,"South","Office Supplies",7,215.9,1511.3
+"ORD-0032",2026-06-04,"West","Furniture",1,248.06,248.06
+"ORD-0033",2026-05-18,"West","Furniture",5,198.63,993.15
+"ORD-0034",2026-04-20,"East","Office Supplies",4,169.86,679.44
+"ORD-0035",2026-04-02,"East","Office Supplies",4,186.28,745.12
+"ORD-0036",2026-01-18,"South","Furniture",6,233.09,1398.54
+"ORD-0037",2026-03-28,"West","Office Supplies",3,114.61,343.83
+"ORD-0038",2026-05-06,"East","Technology",3,92.56,277.68
+"ORD-0039",2026-05-12,"South","Office Supplies",4,96.49,385.96
+"ORD-0040",2026-04-12,"South","Office Supplies",7,100.16,701.12
+"ORD-0041",2026-05-09,"North","Office Supplies",2,76.86,153.72
+"ORD-0042",2026-01-09,"North","Technology",3,233.88,701.64
+"ORD-0043",2026-01-14,"East","Office Supplies",7,39.42,275.94
+"ORD-0044",2026-02-13,"East","Furniture",9,106.89,962.01
+"ORD-0045",2026-04-30,"East","Office Supplies",10,167.61,1676.1
+"ORD-0046",2026-01-20,"South","Office Supplies",2,195.37,390.74
+"ORD-0047",2026-02-18,"South","Office Supplies",10,190.12,1901.2
+"ORD-0048",2026-01-22,"West","Office Supplies",3,103.87,311.61
+"ORD-0049",2026-03-25,"East","Office Supplies",9,198.48,1786.32
+"ORD-0050",2026-05-04,"North","Office Supplies",4,196.37,785.48
+"ORD-0051",2026-06-13,"South","Furniture",1,14.72,14.72
+"ORD-0052",2026-02-10,"West","Technology",1,61.33,61.33
+"ORD-0053",2026-06-10,"South","Technology",10,30.74,307.4
+"ORD-0054",2026-06-27,"East","Furniture",8,167.1,1336.8
+"ORD-0055",2026-06-22,"South","Technology",4,43.08,172.32
+"ORD-0056",2026-02-10,"North","Furniture",5,31.83,159.15
+"ORD-0057",2026-05-15,"North","Office Supplies",8,160.76,1286.08
+"ORD-0058",2026-01-03,"West","Technology",3,145.7,437.1
+"ORD-0059",2026-01-12,"East","Office Supplies",5,83.54,417.7
+"ORD-0060",2026-02-27,"West","Office Supplies",2,242.34,484.68
+"ORD-0061",2026-03-18,"East","Office Supplies",5,39.05,195.25
+"ORD-0062",2026-04-13,"West","Office Supplies",10,89.04,890.4
+"ORD-0063",2026-01-02,"South","Office Supplies",6,95.43,572.58
+"ORD-0064",2026-05-01,"East","Technology",10,160.77,1607.7
+"ORD-0065",2026-01-03,"East","Office Supplies",10,233.99,2339.9
+"ORD-0066",2026-01-21,"North","Technology",9,247.46,2227.14
+"ORD-0067",2026-03-07,"South","Furniture",6,83.85,503.1
+"ORD-0068",2026-06-07,"South","Furniture",1,145.75,145.75
+"ORD-0069",2026-01-04,"North","Office Supplies",6,34.47,206.82
+"ORD-0070",2026-02-10,"West","Furniture",2,229.72,459.44
+"ORD-0071",2026-02-13,"North","Furniture",3,216.76,650.28
+"ORD-0072",2026-04-11,"North","Furniture",4,85.4,341.6
+"ORD-0073",2026-06-17,"East","Technology",4,114.38,457.52
+"ORD-0074",2026-02-08,"West","Furniture",3,33.81,101.43
+"ORD-0075",2026-03-20,"East","Technology",9,190.14,1711.26
+"ORD-0076",2026-05-15,"South","Technology",8,201.56,1612.48
+"ORD-0077",2026-02-06,"West","Technology",7,157.7,1103.9
+"ORD-0078",2026-05-08,"West","Furniture",9,164.96,1484.64
+"ORD-0079",2026-05-01,"South","Technology",5,204.68,1023.4
+"ORD-0080",2026-05-12,"West","Technology",5,199.47,997.35
+"ORD-0081",2026-05-14,"East","Furniture",5,204.65,1023.25
+"ORD-0082",2026-06-21,"East","Office Supplies",10,11.71,117.1
+"ORD-0083",2026-02-24,"West","Office Supplies",8,116.86,934.88
+"ORD-0084",2026-06-07,"East","Technology",2,95.05,190.1
+"ORD-0085",2026-05-10,"South","Technology",3,138.36,415.08
+"ORD-0086",2026-04-23,"West","Office Supplies",2,167.76,335.52
+"ORD-0087",2026-02-11,"West","Office Supplies",4,95.76,383.04
+"ORD-0088",2026-06-28,"North","Office Supplies",7,142.34,996.38
+"ORD-0089",2026-06-20,"South","Technology",8,198.16,1585.28
+"ORD-0090",2026-02-25,"West","Furniture",10,123.32,1233.2
+"ORD-0091",2026-06-05,"South","Technology",3,161.41,484.23
+"ORD-0092",2026-04-27,"South","Office Supplies",3,9.15,27.45
+"ORD-0093",2026-05-30,"South","Furniture",3,33.25,99.75
+"ORD-0094",2026-04-12,"North","Furniture",8,145.89,1167.12
+"ORD-0095",2026-02-25,"North","Furniture",1,229.62,229.62
+"ORD-0096",2026-03-08,"West","Office Supplies",10,173.34,1733.4
+"ORD-0097",2026-05-01,"South","Office Supplies",7,199.01,1393.07
+"ORD-0098",2026-04-12,"North","Technology",10,77.66,776.6
+"ORD-0099",2026-02-18,"East","Office Supplies",6,68.86,413.16
+"ORD-0100",2026-01-19,"North","Office Supplies",8,11.25,90
+"ORD-0101",2026-02-11,"East","Technology",3,166.57,499.71
+"ORD-0102",2026-04-14,"South","Furniture",3,32.37,97.11
+"ORD-0103",2026-05-07,"North","Technology",4,193.7,774.8
+"ORD-0104",2026-02-04,"West","Office Supplies",9,18.78,169.02
+"ORD-0105",2026-03-21,"West","Technology",10,145.49,1454.9
+"ORD-0106",2026-03-09,"South","Furniture",5,188.67,943.35
+"ORD-0107",2026-06-27,"East","Office Supplies",8,195.61,1564.88
+"ORD-0108",2026-03-04,"South","Office Supplies",4,158.11,632.44
+"ORD-0109",2026-05-14,"West","Furniture",3,106.2,318.6
+"ORD-0110",2026-06-03,"South","Technology",6,169.96,1019.76
+"ORD-0111",2026-05-12,"West","Technology",4,127.01,508.04
+"ORD-0112",2026-02-23,"West","Furniture",10,249.97,2499.7
+"ORD-0113",2026-06-14,"West","Office Supplies",2,197.26,394.52
+"ORD-0114",2026-01-16,"North","Furniture",7,28.89,202.23
+"ORD-0115",2026-04-29,"South","Office Supplies",8,24.47,195.76
+"ORD-0116",2026-05-10,"East","Office Supplies",6,194.42,1166.52
+"ORD-0117",2026-05-19,"West","Office Supplies",2,43.15,86.3
+"ORD-0118",2026-06-20,"North","Furniture",2,110.3,220.6
+"ORD-0119",2026-03-31,"West","Office Supplies",7,88.08,616.56
+"ORD-0120",2026-05-26,"North","Technology",3,99.81,299.43
+"ORD-0121",2026-05-16,"North","Office Supplies",10,179.68,1796.8
+"ORD-0122",2026-04-09,"West","Furniture",4,109.37,437.48
+"ORD-0123",2026-06-17,"West","Office Supplies",10,116.58,1165.8
+"ORD-0124",2026-04-19,"South","Furniture",7,216.22,1513.54
+"ORD-0125",2026-06-04,"West","Office Supplies",10,215.68,2156.8
+"ORD-0126",2026-03-18,"North","Office Supplies",8,71.15,569.2
+"ORD-0127",2026-05-04,"North","Furniture",3,99.05,297.15
+"ORD-0128",2026-06-28,"South","Technology",4,43.72,174.88
+"ORD-0129",2026-05-31,"East","Furniture",2,31.54,63.08
+"ORD-0130",2026-01-22,"West","Office Supplies",1,130.65,130.65
+"ORD-0131",2026-04-21,"South","Technology",10,40.32,403.2
+"ORD-0132",2026-03-18,"South","Office Supplies",4,83.55,334.2
+"ORD-0133",2026-02-25,"East","Technology",2,159.35,318.7
+"ORD-0134",2026-01-10,"North","Office Supplies",4,155.99,623.96
+"ORD-0135",2026-05-24,"North","Office Supplies",9,103.43,930.87
+"ORD-0136",2026-04-18,"East","Furniture",1,129.21,129.21
+"ORD-0137",2026-02-24,"East","Technology",2,192.44,384.88
+"ORD-0138",2026-03-19,"North","Furniture",3,235.09,705.27
+"ORD-0139",2026-03-17,"North","Office Supplies",1,70.44,70.44
+"ORD-0140",2026-03-21,"North","Office Supplies",10,186.8,1868
+"ORD-0141",2026-04-17,"East","Technology",7,214.54,1501.78
+"ORD-0142",2026-05-01,"East","Furniture",5,241.67,1208.35
+"ORD-0143",2026-05-10,"West","Office Supplies",7,23.25,162.75
+"ORD-0144",2026-04-17,"North","Technology",2,58.91,117.82
+"ORD-0145",2026-01-02,"North","Technology",1,18.52,18.52
+"ORD-0146",2026-04-14,"East","Office Supplies",8,9.13,73.04
+"ORD-0147",2026-06-06,"North","Furniture",2,226.28,452.56
+"ORD-0148",2026-06-29,"East","Furniture",9,195.95,1763.55
+"ORD-0149",2026-06-03,"East","Furniture",3,133.79,401.37
+"ORD-0150",2026-05-27,"East","Furniture",2,106.77,213.54
+"ORD-0151",2026-03-11,"East","Office Supplies",5,130.7,653.5
+"ORD-0152",2026-01-02,"West","Office Supplies",7,187.25,1310.75
+"ORD-0153",2026-01-24,"South","Technology",7,11.96,83.72
+"ORD-0154",2026-03-02,"East","Furniture",10,175.58,1755.8
+"ORD-0155",2026-06-18,"West","Furniture",3,51.3,153.9
+"ORD-0156",2026-02-27,"North","Office Supplies",5,90.69,453.45
+"ORD-0157",2026-02-18,"West","Office Supplies",3,218.86,656.58
+"ORD-0158",2026-01-16,"East","Office Supplies",9,141.69,1275.21
+"ORD-0159",2026-04-19,"South","Office Supplies",8,114.75,918
+"ORD-0160",2026-05-24,"East","Office Supplies",10,99.2,992
+"ORD-0161",2026-04-28,"East","Furniture",6,112.5,675
+"ORD-0162",2026-03-26,"South","Office Supplies",3,74.03,222.09
+"ORD-0163",2026-06-23,"West","Office Supplies",4,205.68,822.72
+"ORD-0164",2026-04-01,"North","Furniture",9,53.67,483.03
+"ORD-0165",2026-03-12,"East","Furniture",6,249.42,1496.52
+"ORD-0166",2026-04-29,"West","Office Supplies",6,16.37,98.22
+"ORD-0167",2026-04-03,"North","Office Supplies",1,180.14,180.14
+"ORD-0168",2026-06-13,"West","Technology",5,237.4,1187
+"ORD-0169",2026-06-21,"West","Office Supplies",3,126.73,380.19
+"ORD-0170",2026-04-14,"East","Office Supplies",4,176.86,707.44
+"ORD-0171",2026-02-18,"North","Office Supplies",1,235.86,235.86
+"ORD-0172",2026-03-12,"South","Furniture",1,228.83,228.83
+"ORD-0173",2026-02-10,"West","Technology",2,42.39,84.78
+"ORD-0174",2026-01-17,"South","Furniture",8,121.21,969.68
+"ORD-0175",2026-02-18,"North","Office Supplies",7,64.39,450.73
+"ORD-0176",2026-04-12,"East","Furniture",10,34.11,341.1
+"ORD-0177",2026-01-26,"North","Technology",9,126.19,1135.71
+"ORD-0178",2026-01-20,"East","Furniture",7,58.44,409.08
+"ORD-0179",2026-01-31,"South","Office Supplies",9,204.25,1838.25
+"ORD-0180",2026-02-09,"North","Office Supplies",4,94.73,378.92
+"ORD-0181",2026-05-21,"North","Furniture",9,57.28,515.52
+"ORD-0182",2026-06-28,"South","Technology",5,10.25,51.25
+"ORD-0183",2026-05-31,"South","Office Supplies",5,101.65,508.25
+"ORD-0184",2026-06-07,"West","Office Supplies",5,92.44,462.2
+"ORD-0185",2026-06-19,"North","Furniture",4,158.05,632.2
+"ORD-0186",2026-02-25,"East","Office Supplies",5,220.55,1102.75
+"ORD-0187",2026-02-09,"East","Technology",3,118.8,356.4
+"ORD-0188",2026-01-13,"North","Technology",2,189.89,379.78
+"ORD-0189",2026-03-21,"East","Office Supplies",1,151.62,151.62
+"ORD-0190",2026-03-19,"North","Office Supplies",4,177.22,708.88
+"ORD-0191",2026-06-22,"East","Office Supplies",6,169.51,1017.06
+"ORD-0192",2026-03-31,"West","Technology",2,176.85,353.7
+"ORD-0193",2026-03-08,"South","Furniture",2,152.42,304.84
+"ORD-0194",2026-05-01,"North","Technology",10,183.63,1836.3
+"ORD-0195",2026-06-28,"West","Technology",4,168.58,674.32
+"ORD-0196",2026-01-27,"South","Office Supplies",8,152.07,1216.56
+"ORD-0197",2026-06-07,"West","Office Supplies",6,112.17,673.02
+"ORD-0198",2026-03-18,"East","Office Supplies",6,145.46,872.76
+"ORD-0199",2026-04-20,"South","Office Supplies",10,30.22,302.2
+"ORD-0200",2026-05-22,"East","Office Supplies",3,172.47,517.41
+"ORD-0201",2026-06-08,"West","Office Supplies",4,126.96,507.84
+"ORD-0202",2026-05-06,"East","Office Supplies",7,169.53,1186.71
+"ORD-0203",2026-05-21,"North","Furniture",10,81.59,815.9
+"ORD-0204",2026-01-18,"West","Technology",2,121.87,243.74
+"ORD-0205",2026-02-20,"West","Furniture",5,67.12,335.6
+"ORD-0206",2026-02-13,"North","Furniture",9,199.22,1792.98
+"ORD-0207",2026-03-25,"West","Furniture",2,148.65,297.3
+"ORD-0208",2026-01-12,"North","Furniture",8,185.78,1486.24
+"ORD-0209",2026-05-25,"North","Office Supplies",2,211.87,423.74
+"ORD-0210",2026-01-18,"South","Office Supplies",4,232.78,931.12
+"ORD-0211",2026-02-12,"South","Furniture",7,53.61,375.27
+"ORD-0212",2026-06-17,"North","Technology",9,113.48,1021.32
+"ORD-0213",2026-02-18,"West","Technology",4,240.04,960.16
+"ORD-0214",2026-05-09,"South","Office Supplies",9,92.03,828.27
+"ORD-0215",2026-02-09,"West","Technology",7,161.47,1130.29
+"ORD-0216",2026-06-04,"South","Office Supplies",5,125.06,625.3
+"ORD-0217",2026-03-26,"East","Furniture",6,236.91,1421.46
+"ORD-0218",2026-03-23,"East","Office Supplies",6,221.78,1330.68
+"ORD-0219",2026-01-17,"North","Office Supplies",8,138.58,1108.64
+"ORD-0220",2026-04-10,"West","Office Supplies",1,93.2,93.2
+"ORD-0221",2026-03-14,"North","Furniture",10,22.93,229.3
+"ORD-0222",2026-02-09,"East","Office Supplies",8,141.4,1131.2
+"ORD-0223",2026-02-27,"North","Office Supplies",10,187.65,1876.5
+"ORD-0224",2026-03-25,"West","Office Supplies",9,123.62,1112.58
+"ORD-0225",2026-01-25,"North","Office Supplies",4,87.18,348.72
+"ORD-0226",2026-03-31,"North","Office Supplies",7,85.19,596.33
+"ORD-0227",2026-04-29,"North","Furniture",10,163,1630
+"ORD-0228",2026-06-14,"West","Technology",10,25.32,253.2
+"ORD-0229",2026-06-02,"North","Furniture",9,211.93,1907.37
+"ORD-0230",2026-06-25,"East","Office Supplies",6,138.72,832.32
+"ORD-0231",2026-05-25,"West","Furniture",9,100.72,906.48
+"ORD-0232",2026-06-30,"West","Technology",7,232.27,1625.89
+"ORD-0233",2026-06-17,"West","Furniture",3,141.8,425.4
+"ORD-0234",2026-01-31,"East","Furniture",10,98.15,981.5
+"ORD-0235",2026-03-03,"West","Furniture",3,226.18,678.54
+"ORD-0236",2026-05-19,"South","Office Supplies",4,146.86,587.44
+"ORD-0237",2026-02-15,"East","Office Supplies",7,118.27,827.89
+"ORD-0238",2026-01-17,"East","Furniture",7,73.11,511.77
+"ORD-0239",2026-06-24,"South","Office Supplies",7,139.06,973.42
+"ORD-0240",2026-03-19,"North","Technology",5,69.64,348.2
+"ORD-0241",2026-05-16,"North","Furniture",9,124.59,1121.31
+"ORD-0242",2026-03-07,"West","Technology",7,182.48,1277.36
+"ORD-0243",2026-05-26,"East","Furniture",4,148.88,595.52
+"ORD-0244",2026-05-07,"South","Technology",10,248.51,2485.1
+"ORD-0245",2026-01-27,"North","Furniture",6,243.29,1459.74
+"ORD-0246",2026-03-31,"East","Office Supplies",8,99.14,793.12
+"ORD-0247",2026-03-22,"East","Furniture",3,205.58,616.74
+"ORD-0248",2026-02-18,"North","Technology",6,206.44,1238.64
+"ORD-0249",2026-06-25,"South","Technology",2,47.61,95.22
+"ORD-0250",2026-01-26,"East","Office Supplies",5,86.81,434.05
+"ORD-0251",2026-05-12,"North","Office Supplies",10,194.4,1944
+"ORD-0252",2026-03-16,"North","Furniture",1,174.78,174.78
+"ORD-0253",2026-05-16,"West","Office Supplies",6,7.05,42.3
+"ORD-0254",2026-02-09,"South","Technology",3,198.06,594.18
+"ORD-0255",2026-05-30,"South","Office Supplies",9,220.63,1985.67
+"ORD-0256",2026-03-10,"South","Furniture",4,124.6,498.4
+"ORD-0257",2026-02-14,"North","Furniture",1,203.72,203.72
+"ORD-0258",2026-02-03,"West","Furniture",8,90.09,720.72
+"ORD-0259",2026-04-02,"East","Office Supplies",3,224.76,674.28
+"ORD-0260",2026-02-04,"East","Technology",2,171.75,343.5
+"ORD-0261",2026-02-05,"West","Technology",3,171.08,513.24
+"ORD-0262",2026-02-05,"South","Furniture",3,13.49,40.47
+"ORD-0263",2026-01-30,"North","Office Supplies",7,140.17,981.19
+"ORD-0264",2026-01-12,"North","Furniture",1,103.55,103.55
+"ORD-0265",2026-01-30,"South","Technology",3,199.93,599.79
+"ORD-0266",2026-04-22,"East","Technology",6,43.94,263.64
+"ORD-0267",2026-04-16,"North","Furniture",9,93.24,839.16
+"ORD-0268",2026-03-02,"East","Furniture",9,200.77,1806.93
+"ORD-0269",2026-01-21,"East","Office Supplies",5,73.36,366.8
+"ORD-0270",2026-06-07,"South","Office Supplies",6,105.98,635.88
+"ORD-0271",2026-04-11,"West","Technology",6,53.73,322.38
+"ORD-0272",2026-05-11,"South","Office Supplies",10,221.48,2214.8
+"ORD-0273",2026-02-17,"East","Furniture",4,203.27,813.08
+"ORD-0274",2026-02-01,"West","Office Supplies",9,68.48,616.32
+"ORD-0275",2026-01-11,"South","Technology",7,72.58,508.06
+"ORD-0276",2026-05-02,"North","Furniture",3,187.19,561.57
+"ORD-0277",2026-03-28,"West","Furniture",6,188.62,1131.72
+"ORD-0278",2026-06-28,"East","Technology",4,79.56,318.24
+"ORD-0279",2026-01-18,"North","Technology",7,106.53,745.71
+"ORD-0280",2026-02-19,"West","Office Supplies",4,242.29,969.16
+"ORD-0281",2026-02-11,"North","Office Supplies",8,24.53,196.24
+"ORD-0282",2026-03-17,"East","Office Supplies",2,57.98,115.96
+"ORD-0283",2026-02-03,"West","Technology",3,224.48,673.44
+"ORD-0284",2026-05-07,"East","Office Supplies",5,211.79,1058.95
+"ORD-0285",2026-03-03,"East","Technology",2,31.6,63.2
+"ORD-0286",2026-02-23,"South","Technology",10,100.26,1002.6
+"ORD-0287",2026-05-18,"East","Furniture",9,180.88,1627.92
+"ORD-0288",2026-06-27,"North","Technology",7,6.98,48.86
+"ORD-0289",2026-01-25,"South","Furniture",5,133.92,669.6
+"ORD-0290",2026-05-01,"West","Technology",3,154.83,464.49
+"ORD-0291",2026-02-01,"East","Furniture",5,242.42,1212.1
+"ORD-0292",2026-02-01,"West","Office Supplies",4,69.48,277.92
+"ORD-0293",2026-05-24,"South","Office Supplies",4,39.54,158.16
+"ORD-0294",2026-03-31,"East","Technology",2,76.81,153.62
+"ORD-0295",2026-01-24,"West","Office Supplies",10,126.91,1269.1
+"ORD-0296",2026-03-13,"South","Office Supplies",10,248.59,2485.9
+"ORD-0297",2026-02-02,"South","Furniture",9,90.41,813.69
+"ORD-0298",2026-06-01,"South","Technology",3,198.74,596.22
+"ORD-0299",2026-04-11,"North","Office Supplies",10,66.87,668.7
+"ORD-0300",2026-05-26,"South","Office Supplies",5,215.2,1076
+"ORD-0301",2026-04-08,"North","Furniture",3,208.52,625.56
+"ORD-0302",2026-02-22,"East","Technology",3,184.32,552.96
+"ORD-0303",2026-05-31,"East","Technology",1,102.33,102.33
+"ORD-0304",2026-03-17,"South","Office Supplies",1,201.8,201.8
+"ORD-0305",2026-05-18,"South","Technology",3,22.82,68.46
+"ORD-0306",2026-01-25,"North","Furniture",2,152.93,305.86
+"ORD-0307",2026-04-03,"South","Technology",5,137.81,689.05
+"ORD-0308",2026-05-04,"North","Office Supplies",4,99.61,398.44
+"ORD-0309",2026-03-25,"West","Office Supplies",1,54.66,54.66
+"ORD-0310",2026-01-09,"South","Technology",9,226.66,2039.94
+"ORD-0311",2026-01-24,"South","Technology",10,58.88,588.8
+"ORD-0312",2026-04-04,"East","Office Supplies",4,245.52,982.08
+"ORD-0313",2026-06-25,"West","Office Supplies",6,147.73,886.38
+"ORD-0314",2026-05-26,"North","Office Supplies",9,32.89,296.01
+"ORD-0315",2026-01-16,"North","Office Supplies",4,220.53,882.12
+"ORD-0316",2026-05-06,"South","Furniture",5,161.15,805.75
+"ORD-0317",2026-04-05,"West","Furniture",7,227.6,1593.2
+"ORD-0318",2026-02-24,"West","Office Supplies",10,163.35,1633.5
+"ORD-0319",2026-06-24,"East","Furniture",8,34.64,277.12
+"ORD-0320",2026-04-10,"North","Office Supplies",7,47.17,330.19
+"ORD-0321",2026-02-01,"West","Office Supplies",7,65.96,461.72
+"ORD-0322",2026-04-11,"South","Office Supplies",9,182.36,1641.24
+"ORD-0323",2026-06-13,"North","Furniture",9,245.5,2209.5
+"ORD-0324",2026-04-28,"North","Office Supplies",2,92.48,184.96
+"ORD-0325",2026-03-04,"South","Technology",3,164.17,492.51
+"ORD-0326",2026-06-28,"North","Office Supplies",8,75.31,602.48
+"ORD-0327",2026-03-10,"South","Furniture",9,30.65,275.85
+"ORD-0328",2026-01-22,"West","Office Supplies",5,167.8,839
+"ORD-0329",2026-04-12,"South","Office Supplies",5,71.98,359.9
+"ORD-0330",2026-06-03,"East","Office Supplies",6,122.5,735
+"ORD-0331",2026-03-26,"South","Office Supplies",2,178.27,356.54
+"ORD-0332",2026-03-14,"West","Technology",5,199.02,995.1
+"ORD-0333",2026-04-05,"South","Furniture",2,79.28,158.56
+"ORD-0334",2026-01-14,"West","Office Supplies",3,27.66,82.98
+"ORD-0335",2026-01-01,"East","Office Supplies",7,21.84,152.88
+"ORD-0336",2026-02-05,"West","Technology",7,205.8,1440.6
+"ORD-0337",2026-06-04,"East","Office Supplies",6,234.03,1404.18
+"ORD-0338",2026-02-12,"West","Office Supplies",5,18.01,90.05
+"ORD-0339",2026-03-19,"South","Office Supplies",1,203.79,203.79
+"ORD-0340",2026-01-22,"East","Furniture",1,71.67,71.67
+"ORD-0341",2026-02-11,"North","Office Supplies",2,239.08,478.16
+"ORD-0342",2026-03-28,"West","Office Supplies",4,27.16,108.64
+"ORD-0343",2026-05-12,"West","Office Supplies",9,59.26,533.34
+"ORD-0344",2026-01-09,"North","Technology",10,125.4,1254
+"ORD-0345",2026-02-11,"East","Furniture",1,114.65,114.65
+"ORD-0346",2026-03-21,"East","Furniture",5,117.93,589.65
+"ORD-0347",2026-03-20,"North","Office Supplies",10,230,2300
+"ORD-0348",2026-05-18,"South","Technology",9,51.21,460.89
+"ORD-0349",2026-04-17,"West","Technology",9,161.5,1453.5
+"ORD-0350",2026-05-13,"South","Technology",7,96.61,676.27
+"ORD-0351",2026-02-14,"North","Technology",8,127.53,1020.24
+"ORD-0352",2026-05-16,"East","Office Supplies",10,23.75,237.5
+"ORD-0353",2026-05-02,"East","Office Supplies",7,115.51,808.57
+"ORD-0354",2026-02-24,"West","Office Supplies",1,46.6,46.6
+"ORD-0355",2026-03-21,"North","Office Supplies",4,12.38,49.52
+"ORD-0356",2026-04-15,"North","Technology",4,72.86,291.44
+"ORD-0357",2026-06-30,"East","Technology",4,203.64,814.56
+"ORD-0358",2026-06-14,"South","Furniture",9,188.53,1696.77
+"ORD-0359",2026-05-31,"East","Furniture",4,161.42,645.68
+"ORD-0360",2026-01-29,"West","Technology",5,16.65,83.25
+"ORD-0361",2026-06-24,"South","Technology",1,100.66,100.66
+"ORD-0362",2026-04-03,"North","Office Supplies",8,114.59,916.72
+"ORD-0363",2026-06-11,"West","Office Supplies",2,73.4,146.8
+"ORD-0364",2026-05-05,"North","Office Supplies",6,215.32,1291.92
+"ORD-0365",2026-06-21,"South","Office Supplies",6,247.91,1487.46
+"ORD-0366",2026-02-02,"South","Technology",4,94.81,379.24
+"ORD-0367",2026-01-12,"North","Furniture",6,72.36,434.16
+"ORD-0368",2026-01-09,"East","Technology",9,182.45,1642.05
+"ORD-0369",2026-06-26,"North","Technology",7,34.21,239.47
+"ORD-0370",2026-05-31,"West","Furniture",3,110.56,331.68
+"ORD-0371",2026-06-24,"South","Office Supplies",10,66.94,669.4
+"ORD-0372",2026-02-13,"North","Furniture",6,84.28,505.68
+"ORD-0373",2026-03-22,"North","Furniture",10,133.47,1334.7
+"ORD-0374",2026-02-25,"North","Technology",3,13.71,41.13
+"ORD-0375",2026-01-04,"North","Furniture",10,206.47,2064.7
+"ORD-0376",2026-05-07,"South","Office Supplies",5,132.26,661.3
+"ORD-0377",2026-01-07,"South","Office Supplies",5,199.7,998.5
+"ORD-0378",2026-06-24,"East","Furniture",1,120.43,120.43
+"ORD-0379",2026-06-10,"South","Technology",5,206.44,1032.2
+"ORD-0380",2026-04-26,"North","Technology",4,245.93,983.72
+"ORD-0381",2026-02-23,"West","Furniture",8,121.87,974.96
+"ORD-0382",2026-03-21,"South","Furniture",6,24.83,148.98
+"ORD-0383",2026-06-28,"North","Furniture",2,234.52,469.04
+"ORD-0384",2026-04-03,"South","Furniture",3,188.41,565.23
+"ORD-0385",2026-01-08,"East","Technology",8,27.52,220.16
+"ORD-0386",2026-06-21,"North","Furniture",9,47.25,425.25
+"ORD-0387",2026-02-05,"West","Furniture",10,207.92,2079.2
+"ORD-0388",2026-01-14,"East","Technology",5,184.62,923.1
+"ORD-0389",2026-05-07,"North","Office Supplies",4,9.96,39.84
+"ORD-0390",2026-03-14,"East","Furniture",9,121.18,1090.62
+"ORD-0391",2026-01-01,"North","Furniture",6,43.66,261.96
+"ORD-0392",2026-02-24,"East","Office Supplies",3,50.94,152.82
+"ORD-0393",2026-05-13,"South","Office Supplies",4,92.6,370.4
+"ORD-0394",2026-03-03,"East","Furniture",2,131.77,263.54
+"ORD-0395",2026-05-12,"South","Office Supplies",9,121.88,1096.92
+"ORD-0396",2026-05-07,"East","Office Supplies",5,130.4,652
+"ORD-0397",2026-05-01,"South","Office Supplies",1,91.16,91.16
+"ORD-0398",2026-06-18,"East","Office Supplies",8,122.93,983.44
+"ORD-0399",2026-06-18,"East","Furniture",4,71.03,284.12
+"ORD-0400",2026-01-08,"South","Office Supplies",6,249.36,1496.16
+"ORD-0401",2026-04-05,"East","Furniture",5,30.52,152.6
+"ORD-0402",2026-01-31,"South","Furniture",6,43.07,258.42
+"ORD-0403",2026-02-13,"North","Technology",8,108.7,869.6
+"ORD-0404",2026-05-06,"South","Office Supplies",4,120.26,481.04
+"ORD-0405",2026-05-03,"East","Office Supplies",7,248.03,1736.21
+"ORD-0406",2026-04-06,"North","Technology",2,161.43,322.86
+"ORD-0407",2026-01-21,"West","Technology",2,111.19,222.38
+"ORD-0408",2026-02-28,"West","Technology",5,171.21,856.05
+"ORD-0409",2026-03-30,"West","Office Supplies",6,123.43,740.58
+"ORD-0410",2026-02-19,"West","Furniture",1,238.34,238.34
+"ORD-0411",2026-06-16,"West","Technology",8,187.66,1501.28
+"ORD-0412",2026-01-23,"East","Technology",4,38.74,154.96
+"ORD-0413",2026-06-11,"South","Furniture",6,103.63,621.78
+"ORD-0414",2026-03-29,"South","Furniture",7,149.47,1046.29
+"ORD-0415",2026-04-16,"East","Office Supplies",3,67.05,201.15
+"ORD-0416",2026-01-18,"East","Furniture",4,169.68,678.72
+"ORD-0417",2026-06-27,"North","Furniture",1,208.09,208.09
+"ORD-0418",2026-06-29,"North","Furniture",1,166.77,166.77
+"ORD-0419",2026-05-09,"West","Office Supplies",10,169.45,1694.5
+"ORD-0420",2026-01-31,"South","Furniture",7,78.65,550.55
+"ORD-0421",2026-05-22,"North","Office Supplies",2,220.78,441.56
+"ORD-0422",2026-03-31,"South","Furniture",5,119.93,599.65
+"ORD-0423",2026-02-27,"North","Technology",5,138.83,694.15
+"ORD-0424",2026-05-14,"West","Furniture",10,184.47,1844.7
+"ORD-0425",2026-02-14,"West","Furniture",8,140.3,1122.4
+"ORD-0426",2026-01-13,"North","Furniture",7,212.6,1488.2
+"ORD-0427",2026-04-16,"West","Office Supplies",4,64.88,259.52
+"ORD-0428",2026-01-19,"East","Furniture",6,70.3,421.8
+"ORD-0429",2026-01-20,"East","Office Supplies",1,48.51,48.51
+"ORD-0430",2026-03-22,"North","Furniture",2,93.46,186.92
+"ORD-0431",2026-01-02,"North","Technology",9,37.75,339.75
+"ORD-0432",2026-04-10,"East","Office Supplies",9,19,171
+"ORD-0433",2026-05-13,"North","Office Supplies",5,224.08,1120.4
+"ORD-0434",2026-01-16,"North","Technology",7,237.31,1661.17
+"ORD-0435",2026-06-06,"South","Office Supplies",10,126,1260
+"ORD-0436",2026-01-27,"East","Office Supplies",7,84.45,591.15
+"ORD-0437",2026-01-28,"North","Office Supplies",5,232.26,1161.3
+"ORD-0438",2026-02-17,"West","Technology",8,136.32,1090.56
+"ORD-0439",2026-06-11,"East","Technology",4,75.68,302.72
+"ORD-0440",2026-06-02,"East","Furniture",6,159.5,957
+"ORD-0441",2026-05-29,"South","Technology",8,81.51,652.08
+"ORD-0442",2026-01-05,"North","Furniture",2,113.32,226.64
+"ORD-0443",2026-01-11,"West","Furniture",10,22.83,228.3
+"ORD-0444",2026-02-12,"West","Technology",10,38.03,380.3
+"ORD-0445",2026-03-16,"North","Furniture",9,187.32,1685.88
+"ORD-0446",2026-06-10,"East","Technology",1,206.94,206.94
+"ORD-0447",2026-05-22,"South","Furniture",7,7.55,52.85
+"ORD-0448",2026-01-01,"East","Technology",6,7.91,47.46
+"ORD-0449",2026-01-29,"West","Office Supplies",7,170.13,1190.91
+"ORD-0450",2026-06-16,"West","Office Supplies",8,185.66,1485.28
+"ORD-0451",2026-03-19,"South","Office Supplies",1,210.87,210.87
+"ORD-0452",2026-03-11,"South","Furniture",2,155.76,311.52
+"ORD-0453",2026-03-14,"North","Technology",9,82.88,745.92
+"ORD-0454",2026-04-10,"East","Furniture",10,188.82,1888.2
+"ORD-0455",2026-03-17,"East","Office Supplies",3,239.55,718.65
+"ORD-0456",2026-02-02,"South","Office Supplies",7,114.12,798.84
+"ORD-0457",2026-03-13,"South","Furniture",4,32.19,128.76
+"ORD-0458",2026-06-24,"North","Furniture",5,130.96,654.8
+"ORD-0459",2026-05-24,"West","Office Supplies",1,139.94,139.94
+"ORD-0460",2026-06-18,"South","Furniture",6,216.96,1301.76
+"ORD-0461",2026-05-11,"West","Furniture",10,207.19,2071.9
+"ORD-0462",2026-05-09,"South","Office Supplies",7,52.8,369.6
+"ORD-0463",2026-03-13,"North","Office Supplies",1,241.09,241.09
+"ORD-0464",2026-05-26,"East","Technology",2,110.12,220.24
+"ORD-0465",2026-02-18,"West","Office Supplies",2,100.03,200.06
+"ORD-0466",2026-01-02,"South","Furniture",1,161.73,161.73
+"ORD-0467",2026-05-11,"South","Technology",5,213.9,1069.5
+"ORD-0468",2026-05-28,"East","Furniture",8,7.9,63.2
+"ORD-0469",2026-06-13,"South","Office Supplies",4,222.22,888.88
+"ORD-0470",2026-02-12,"West","Technology",1,12.41,12.41
+"ORD-0471",2026-05-10,"South","Technology",5,213.43,1067.15
+"ORD-0472",2026-02-05,"South","Furniture",5,8.44,42.2
+"ORD-0473",2026-03-16,"South","Furniture",3,138.93,416.79
+"ORD-0474",2026-05-07,"North","Office Supplies",7,196.41,1374.87
+"ORD-0475",2026-04-17,"West","Furniture",5,209.13,1045.65
+"ORD-0476",2026-01-02,"South","Office Supplies",1,10.05,10.05
+"ORD-0477",2026-06-30,"East","Office Supplies",8,240.94,1927.52
+"ORD-0478",2026-01-04,"North","Office Supplies",6,99.31,595.86
+"ORD-0479",2026-02-11,"North","Office Supplies",6,86.89,521.34
+"ORD-0480",2026-06-12,"South","Furniture",7,63.34,443.38
+"ORD-0481",2026-04-01,"North","Office Supplies",9,172.03,1548.27
+"ORD-0482",2026-01-17,"North","Technology",10,125.75,1257.5
+"ORD-0483",2026-04-03,"South","Office Supplies",1,168.72,168.72
+"ORD-0484",2026-04-15,"East","Furniture",7,245.87,1721.09
+"ORD-0485",2026-02-10,"South","Office Supplies",4,165.34,661.36
+"ORD-0486",2026-05-03,"West","Office Supplies",1,240.51,240.51
+"ORD-0487",2026-05-18,"North","Furniture",5,36.11,180.55
+"ORD-0488",2026-06-26,"South","Technology",5,147.86,739.3
+"ORD-0489",2026-02-25,"West","Technology",3,226.03,678.09
+"ORD-0490",2026-01-26,"West","Office Supplies",3,84.96,254.88
+"ORD-0491",2026-04-13,"East","Office Supplies",8,63.45,507.6
+"ORD-0492",2026-02-22,"South","Office Supplies",8,161.75,1294
+"ORD-0493",2026-05-14,"East","Technology",1,111.34,111.34
+"ORD-0494",2026-01-14,"North","Furniture",10,41.94,419.4
+"ORD-0495",2026-04-16,"East","Furniture",10,139.33,1393.3
+"ORD-0496",2026-04-29,"East","Office Supplies",3,234.37,703.11
+"ORD-0497",2026-05-23,"South","Furniture",8,34.58,276.64
+"ORD-0498",2026-01-19,"East","Office Supplies",5,193.51,967.55
+"ORD-0499",2026-01-29,"North","Furniture",6,239.09,1434.54
+"ORD-0500",2026-04-07,"East","Office Supplies",10,36.75,367.5
